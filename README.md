@@ -1,3 +1,3 @@
 # JavaScript Small Problems
 
-JavaScript Exercises from Launch School.
+JavaScript Exercises from Launch School and beyond.
