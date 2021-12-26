@@ -1,0 +1,31 @@
+{
+  "en": {
+    "language": "Select a language: 1) English, 2) Espanol",
+    "welcome": "Welcome to Calculator! What is your name?",
+    "name": "What is your name?",
+    "welcome2": "Hello ",
+    "firstNumber": "What is the first number?",
+    "secondNumber": "What is the second number?",
+    "errorNumber": "Not a valid number, try again.",
+    "operation": "What operation would you like to perform?:",
+    "operationChoices": "1) Add 2) Subtract 3) Multiply 4) Divide",
+    "errorOperation": "Must choose 1, 2, 3, or 4!",
+    "result": "The result is: ",
+    "goAgain": "Would you like to perform another calculation? (y/n)",
+    "goodBye": "Good bye!"
+  },
+  "es": {
+    "welcome": "¡Bienvenidas/os a la calculadora!",
+    "name": "¿Como te llamas?",
+    "welcome2": "Hola ",
+    "firstNumber": "¿Cuál es el primer número?",
+    "secondNumber": "¿Cuál es el segundo número?",
+    "errorNumber": "El número no es válido. Por favor, inténtelo de nuevo.",
+    "operation": "Elige una operación:",
+    "operationChoices": "1) Adición 2) Sustracción 3) Multiplicación 4) División",
+    "errorOperation": "Debe elegir 1, 2, 3 or 4",
+    "result": "El resultado: ",
+    "goAgain": "¿Te gustaría seguir usando la calculadora? (y/n)",
+    "goodBye": "¡Adios!"
+  }
+}
